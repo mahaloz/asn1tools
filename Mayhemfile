@@ -1,0 +1,5 @@
+project: asn1tools
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme
