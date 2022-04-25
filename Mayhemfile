@@ -1,5 +1,5 @@
 project: asn1tools
-target: fuzzme
+target: fuzz_main_oer_input
 
 cmds:
-  - cmd: /fuzzme
+  - cmd: /fuzz_main_oer_input
